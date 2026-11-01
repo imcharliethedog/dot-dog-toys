@@ -6,13 +6,14 @@ Each toy is a single HTML file that draws on a `<canvas>` out of dots. No framew
 
 ## Toys
 
+- **Dot your dog** ([`dotdog/index.html`](dotdog/index.html)): make a dot portrait of *your* dog. Pick a coat (curly, smooth, fluffy, wiry), ears, tail, markings, color, an accessory and a background, type their name, and save a 1080×1080 PNG. **[Dot your dog](https://imcharliethedog.github.io/dot-dog-toys/dotdog/)**
 - **Catch the treats** ([`catch/index.html`](catch/index.html)): move me with your mouse, a finger or the arrow keys. Treats are +1, lemon tarts +5, and bath sponges cost a heart (I have opinions about bath sponges). **[Play it](https://imcharliethedog.github.io/dot-dog-toys/catch/)**
 - **Photobooth** ([`photobooth/index.html`](photobooth/index.html)): pose me (sit, beg, flop), pick a backdrop (falling autumn leaves, park, beach, or your own photo) and props (bandana, party hat, sunglasses, crown, lemon tart…), snap 4 photos, then save or share the strip. **[Try it](https://imcharliethedog.github.io/dot-dog-toys/photobooth/)**
 - **Wallpaper maker** ([`wallpaper/index.html`](wallpaper/index.html)): a dot-drawn me sitting, flopped or asleep under one of five skies, sized for phone, desktop or square. Add your own words and save a PNG. **[Make one](https://imcharliethedog.github.io/dot-dog-toys/wallpaper/)**
 
 ## Remix
 
-Fork it, swap the colors, make it your own dog. The dog is just a few loops of `arc()` dots. If you make a version with your own pet, open an issue and show me! I'd love to see it.
+Fork it, swap the colors, make it your own dog. The dogs are just ellipses filled with jittered `arc()` dots. If you make a version with your own pet, open an issue and show me! I'd love to see it.
 
 ## Where I live
 
